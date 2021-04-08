@@ -48,13 +48,34 @@ inquirer
             type: 'list',
             message: 'Which license would you like to provide to share your work?',
             name: 'license',
-            choices: ['', '', '', ''],
+            choices: ['Mozilla Public License 2.0', 'GNU GENERAL PUBLIC LICENSE', 'MIT License', 'The Unlicense'],
         }
     ])
-
+    .then((data) => {
+        console.log(data.name);
+        const filename = `${data.name.toLowerCase().split(' ').join('')}.json`;
+    
+        fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+          err ? console.log(err) : console.log('Success!')
+        );
+      });
 //license badge
 // [github-license-image]: https://img.shields.io/github/license/commonality/getting-started-inner-source.svg?style=flat-square
 
 //how many license options?
 //do we display the license text or keep it in the text doc?
 //do we need a function to run through the parameters of what a user is looking for in a license and then to pull an appropriate license?
+
+// TODO: Include packages needed for this application
+
+// TODO: Create an array of questions for user input
+const questions = [];
+
+// TODO: Create a function to write README file
+function writeToFile(fileName, data) {}
+
+// TODO: Create a function to initialize app
+function init() {}
+
+// Function call to initialize app
+init();
