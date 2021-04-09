@@ -1,8 +1,11 @@
 # README Generator
-
-  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-
- 
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) 
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uknity&theme=blue-green) 
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=uknity) 
+  ![](https://img.shields.io/badge/GitHub-uknity-181717?style=for-the-badge&logo=github)  
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=uknity&show_icons=true)   
+  
+  
 ## Table of Contents
     1. [Description](#description)
     2. [Installation](#installation)
@@ -26,7 +29,7 @@ In order to use this generator, please open the files in VS Code or your preferr
 
 ## Credits
 
-This project was completed with the assistance of the Georgia Tech Coding Bootcamp and my tutor, Kevin Ferguson.
+This project was completed with the assistance of the Georgia Tech Coding Bootcamp.
 
 ## Test
 
@@ -41,6 +44,5 @@ GitHub Link: https://github.com/uknity
 Email Address: uknity@gmail.com  
 
 ## License
-
 
 https://www.boost.org/LICENSE_1_0.txt

@@ -1,6 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
+  
   if (license === "CCO") {
     return "[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)";
   } else if (license === "BSD 2-Clause License") {
@@ -26,16 +27,52 @@ function renderLicenseLink(license) {
   }
 }
 
+function profileViewCounter(userName) {
+
+  if (!userName) {
+    return ""
+  } else {
+    return `![Profile View Counter](https://komarev.com/ghpvc/?username=${userName})`
+  }
+}
+
+function mostUsedLanguages(userName) {
+  if (!userName) {
+    return ""
+  } else {
+    return `![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=${userName}&theme=blue-green)`
+  }
+}
+
+function funBadge(userName) {
+  if (!userName) {
+    return ""
+  } else {
+    return `![](https://img.shields.io/badge/GitHub-${userName}-181717?style=for-the-badge&logo=github)`
+  }
+}
+
+function gitStats(userName) {
+  if (!userName) {
+    return ""
+  } else {
+    return `![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=${userName}&show_icons=true)`
+  }
+}
+
 // TODO: Create a function to generate markdown for README
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
+
 function generateMarkdown(data) {
+  
   return `# ${data.title}
-
-  ${renderLicenseBadge(data.license)}
-
-  ![](https://img.shields.io/badge/GitHub-${data.userName}-181717?style=for-the-badge&logo=github)
-
+  ${renderLicenseBadge(data.license)} 
+  ${mostUsedLanguages(data.userName)} 
+  ${profileViewCounter(data.userName)} 
+  ${funBadge(data.userName)}  
+  ${gitStats(data.userName)}   
+  
   
 ## Table of Contents
     1. [Description](#description)
@@ -75,7 +112,6 @@ GitHub Link: https://github.com/${data.userName}
 Email Address: ${data.email}  
 
 ## License
-
 
 ${renderLicenseLink(data.license)}`;
 }
