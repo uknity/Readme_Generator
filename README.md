@@ -27,7 +27,7 @@ Ensure that you have Node.js downloaded onto your computer.  If not, please visi
 
 ## Usage
 
-Please open the files in VS Code or your preferred code editor. In the terminal, type, "node index.js".  Answer the prompted questions about your project. The project will generate a README.md file that you may copy into your project.
+Please open the files in VS Code or your preferred code editor. In the terminal, type, "node index.js".  Answer the prompted questions about your project.
 
 ## Credits
 
@@ -47,4 +47,4 @@ Email Address: uknity@gmail.com
 
 ## License
 
-https://opensource.org/licenses/Apache-2.0
+https://opensource.org/licenses/MIT

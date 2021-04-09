@@ -53,7 +53,7 @@ const questions = [
     type: "list",
     message: "Which license would you like to provide to share your work?",
     name: "license",
-    choices: ["CCO", "BSD 2-Clause License", "Boost Software License 1.0", "Apache 2.0 License"],
+    choices: ["CCO", "BSD 2-Clause License", "Boost Software License 1.0", "Apache 2.0 License", "MIT", "No License"],
   },
 ];
 
