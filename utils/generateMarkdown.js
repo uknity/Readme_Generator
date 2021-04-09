@@ -72,10 +72,10 @@ function generateMarkdown(data) {
   
   return `# ${data.title}
   ${renderLicenseBadge(data.license)} 
-  ${mostUsedLanguages(data.userName)} 
   ${profileViewCounter(data.userName)} 
   ${funBadge(data.userName)}  
-  ${gitStats(data.userName)}   
+  ${gitStats(data.userName)} 
+  ${mostUsedLanguages(data.userName)}    
   
   
 ## Table of Contents

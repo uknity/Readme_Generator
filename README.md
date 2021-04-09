@@ -1,9 +1,9 @@
 # README Generator
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uknity&theme=blue-green) 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=uknity) 
   ![](https://img.shields.io/badge/GitHub-uknity-181717?style=for-the-badge&logo=github)  
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=uknity&show_icons=true)   
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=uknity&show_icons=true) 
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uknity&theme=blue-green)    
   
   
 ## Table of Contents
