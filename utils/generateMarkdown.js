@@ -77,16 +77,17 @@ function generateMarkdown(data) {
   ${gitStats(data.userName)} 
   ${mostUsedLanguages(data.userName)}    
   
-  
+_____________________________________________________  
+
 ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [Test](#test)
-    - [Questions](#questions)
-    - [License](#license)
-_____________________________________________________________________________________________________
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [Test](#test)
+  - [Questions](#questions)
+  - [License](#license)
+______________________________________________________
 
 ## Description
 
