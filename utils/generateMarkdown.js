@@ -8,6 +8,8 @@ function renderLicenseBadge(license) {
     return "[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)";
   } else if (license === "Boost Software License 1.0") {
     return "[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)";
+  } else if (license === "Apache 2.0 License") {
+    return "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
   } else {
     return "";
   }
@@ -22,7 +24,9 @@ function renderLicenseLink(license) {
     return "https://opensource.org/licenses/BSD-2-Clause";
   } else if (license === "Boost Software License 1.0") {
     return "https://www.boost.org/LICENSE_1_0.txt";
-  } else {
+  }  else if (license === "Apache 2.0 License") {
+    return "https://opensource.org/licenses/Apache-2.0";
+  }  else {
     return "";
   }
 }

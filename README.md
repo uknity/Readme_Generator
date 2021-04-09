@@ -1,5 +1,5 @@
 # README Generator
-  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) 
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uknity&theme=blue-green) 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=uknity) 
   ![](https://img.shields.io/badge/GitHub-uknity-181717?style=for-the-badge&logo=github)  
@@ -25,7 +25,7 @@ Ensure that you have Node.js downloaded onto your computer.  If not, please visi
 
 ## Usage
 
-In order to use this generator, please open the files in VS Code or your preferred code editor. In the terminal, type, "node index.js".  Answer the prompted questions about your project. The project will generate a README.md file that you may copy into your project.
+Please open the files in VS Code or your preferred code editor. In the terminal, type, "node index.js".  Answer the prompted questions about your project. The project will generate a README.md file that you may copy into your project.
 
 ## Credits
 
@@ -33,7 +33,7 @@ This project was completed with the assistance of the Georgia Tech Coding Bootca
 
 ## Test
 
-In order to test the project, please follow the usage guidelines to generate a sample README.
+To test the project, please follow the usage guidelines to generate a sample README.
 
 ## Questions
 
@@ -45,4 +45,4 @@ Email Address: uknity@gmail.com
 
 ## License
 
-https://www.boost.org/LICENSE_1_0.txt
+https://opensource.org/licenses/Apache-2.0
