@@ -1,53 +1,49 @@
-![image](https://user-images.githubusercontent.com/77338531/114179574-2a67c380-990d-11eb-834b-4fcd00b5001f.png)  
-
-Video Demonstration: https://drive.google.com/file/d/1D5FlulWhZi0emSDxBLagRrcZb9GTvheN/view?usp=sharing
-# README Generator
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=uknity) 
-  ![](https://img.shields.io/badge/GitHub-uknity-181717?style=for-the-badge&logo=github)  
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=uknity&show_icons=true) 
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uknity&theme=blue-green)    
+# jkla;jfdl
+  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=sdfafjkllj;) 
+  ![](https://img.shields.io/badge/GitHub-sdfafjkllj;-181717?style=for-the-badge&logo=github)  
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sdfafjkllj;&show_icons=true) 
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sdfafjkllj;&theme=blue-green)    
   
   
 ## Table of Contents
-    1. [Description](#description)
-    2. [Installation](#installation)
-    3. [Usage](#usage)
-    4. [Credits](#credits)
-    5. [Test](#test)
-    6. [Questions](#questions)
-    7. [License](#license)
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Credits](#credits)
+    - [Test](#test)
+    - [Questions](#questions)
+    - [License](#license)
+
 
 ## Description
 
-Use this dynamic README generator to create a descriptive, professional README document for your project.  The README will include the project title, a table of contents, and sections providing a description of the project, installation instructions, user guidelines, collaborator credits, project tests, contact information for questions, and licenses.  In addition, the project features a license badge near the top of the README.
+kdfjka;lkj
 
 ## Installation
 
-Ensure that you have Node.js downloaded onto your computer.  If not, please visit https://nodejs.org/en and follow the download instructions.
+sadsjkf;l;j
 
 ## Usage
 
-Please open the files in VS Code or your preferred code editor. In the terminal, type, "node index.js".  Answer the prompted questions about your project. The project will generate a README.md file that you may copy into your project.
+adjfk;l
 
 ## Credits
 
-This project was completed with the assistance of the Georgia Tech Coding Bootcamp.
+fdaskjl;l;;j
 
 ## Test
 
-To test the project, please follow the usage guidelines to generate a sample README.
+dsfjkal;l
 
 ## Questions
 
 For additional information, please visit my GitHub site or send me an email at the address below.  
   
-GitHub Username: uknity  
-GitHub Link: https://github.com/uknity  
-Email Address: uknity@gmail.com  
+GitHub Username: sdfafjkllj;  
+GitHub Link: https://github.com/sdfafjkllj;  
+Email Address: jlkdfkls;j  
 
 ## License
 
-https://opensource.org/licenses/Apache-2.0
-
-GitHub URL: https://github.com/uknity/Readme_Generator
+https://creativecommons.org/publicdomain/zero/1.0/
