@@ -1,4 +1,10 @@
-# klaj;d;
+# README Generator
+
+  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+  ![Repos Dependence](https://img.shields.io/librariesio/dependent-repos/npm/inquirer)
+
+  https://img.shields.io/github/commit-activity/y/commonality/getting-started-inner-source.svg?style=flat-square
   
 ## Table of Contents
     1. [Description](#description)
@@ -11,30 +17,31 @@
 
 ## Description
 
-ajdl;kf;
+Use this dynamic README.md generator to create a descriptive, professional README document for your project.  The README will include the project title, a table of contents, and sections providing a description of the project, installation instructions, user guidelines, collaborator credits, project tests, contact information for questions, and licenses.  In addition, the project features a license badge near the top of the README.
 
 ## Installation
 
-afdjksl;
+Ensure that you have Node.js downloaded onto your computer.  If not, please visit https://nodejs.org/en and follow the download instructions.
 
 ## Usage
 
-afdsjkll;j
+In order to use this generator, please open the files in VS Code or your preferred code editor.
 
 ## Credits
 
-asdfsaskdflj;
+In the terminal, type, "node index.js".  
 
 ## Test
 
-dfs;jlk
+The project will generate a README.md file that you may copy into your project.dfjl;
 
 ## Questions
 
-;dafslkj
-kjlfdas;
+GitHub Username: uknity
+GitHub Link: https://github.com/uknity
+Email Address: uknity@gmail.com
 
 ## License
 
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-https://www.boost.org/LICENSE_1_0.txt
+
+https://creativecommons.org/publicdomain/zero/1.0/

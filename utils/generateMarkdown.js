@@ -31,6 +31,12 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function generateMarkdown(data) {
   return `# ${data.title}
+
+  ${renderLicenseBadge(data.license)}
+
+  ![Repos Dependence](https://img.shields.io/librariesio/dependent-repos/npm/inquirer)
+
+  https://img.shields.io/github/commit-activity/y/commonality/getting-started-inner-source.svg?style=flat-square
   
 ## Table of Contents
     1. [Description](#description)
@@ -63,12 +69,13 @@ ${data.test}
 
 ## Questions
 
-${data.userName}
-${data.email}
+GitHub Username: ${data.userName}  
+GitHub Link: https://github.com/${data.userName}  
+Email Address: ${data.email}  
 
 ## License
 
-${renderLicenseBadge(data.license)}
+
 ${renderLicenseLink(data.license)}`;
 }
 
