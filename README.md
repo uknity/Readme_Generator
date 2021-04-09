@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/77338531/114179574-2a67c380-990d-11eb-834b-4fcd00b5001f.png)
+![image](https://user-images.githubusercontent.com/77338531/114179574-2a67c380-990d-11eb-834b-4fcd00b5001f.png)  
 
-![Link to video demonstration](https://drive.google.com/file/d/1D5FlulWhZi0emSDxBLagRrcZb9GTvheN/view?usp=sharing)
+Video Demonstration: https://drive.google.com/file/d/1D5FlulWhZi0emSDxBLagRrcZb9GTvheN/view?usp=sharing
 # README Generator
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=uknity) 
@@ -51,4 +51,3 @@ Email Address: uknity@gmail.com
 https://opensource.org/licenses/Apache-2.0
 
 GitHub URL: https://github.com/uknity/Readme_Generator
-Video Demonstration: https://drive.google.com/file/d/1D5FlulWhZi0emSDxBLagRrcZb9GTvheN/view?usp=sharing
