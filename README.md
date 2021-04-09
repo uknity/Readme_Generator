@@ -1,11 +1,8 @@
 # README Generator
 
-  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
-  ![Repos Dependence](https://img.shields.io/librariesio/dependent-repos/npm/inquirer)
-
-  https://img.shields.io/github/commit-activity/y/commonality/getting-started-inner-source.svg?style=flat-square
-  
+ 
 ## Table of Contents
     1. [Description](#description)
     2. [Installation](#installation)
@@ -17,7 +14,7 @@
 
 ## Description
 
-Use this dynamic README.md generator to create a descriptive, professional README document for your project.  The README will include the project title, a table of contents, and sections providing a description of the project, installation instructions, user guidelines, collaborator credits, project tests, contact information for questions, and licenses.  In addition, the project features a license badge near the top of the README.
+Use this dynamic README generator to create a descriptive, professional README document for your project.  The README will include the project title, a table of contents, and sections providing a description of the project, installation instructions, user guidelines, collaborator credits, project tests, contact information for questions, and licenses.  In addition, the project features a license badge near the top of the README.
 
 ## Installation
 
@@ -25,23 +22,25 @@ Ensure that you have Node.js downloaded onto your computer.  If not, please visi
 
 ## Usage
 
-In order to use this generator, please open the files in VS Code or your preferred code editor.
+In order to use this generator, please open the files in VS Code or your preferred code editor. In the terminal, type, "node index.js".  Answer the prompted questions about your project. The project will generate a README.md file that you may copy into your project.
 
 ## Credits
 
-In the terminal, type, "node index.js".  
+This project was completed with the assistance of the Georgia Tech Coding Bootcamp and my tutor, Kevin Ferguson.
 
 ## Test
 
-The project will generate a README.md file that you may copy into your project.dfjl;
+In order to test the project, please follow the usage guidelines to generate a sample README.
 
 ## Questions
 
-GitHub Username: uknity
-GitHub Link: https://github.com/uknity
-Email Address: uknity@gmail.com
+For additional information, please visit my GitHub site or send me an email at the address below.  
+  
+GitHub Username: uknity  
+GitHub Link: https://github.com/uknity  
+Email Address: uknity@gmail.com  
 
 ## License
 
 
-https://creativecommons.org/publicdomain/zero/1.0/
+https://www.boost.org/LICENSE_1_0.txt

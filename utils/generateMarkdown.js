@@ -34,9 +34,8 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
-  ![Repos Dependence](https://img.shields.io/librariesio/dependent-repos/npm/inquirer)
+  ![](https://img.shields.io/badge/GitHub-${data.userName}-181717?style=for-the-badge&logo=github)
 
-  https://img.shields.io/github/commit-activity/y/commonality/getting-started-inner-source.svg?style=flat-square
   
 ## Table of Contents
     1. [Description](#description)
@@ -69,6 +68,8 @@ ${data.test}
 
 ## Questions
 
+For additional information, please visit my GitHub site or send me an email at the address below.  
+  
 GitHub Username: ${data.userName}  
 GitHub Link: https://github.com/${data.userName}  
 Email Address: ${data.email}  
