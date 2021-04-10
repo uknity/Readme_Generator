@@ -11,7 +11,7 @@ function renderLicenseBadge(license) {
   } else if (license === "Apache 2.0 License") {
     return "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
   } else if (license === "MIT") {
-    return "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
+    return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
   } else {
     return "";
   }
