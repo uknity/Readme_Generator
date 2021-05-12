@@ -1,10 +1,10 @@
-# Workout Tracker
-  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
+# README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=uknity) 
   ![](https://img.shields.io/badge/GitHub-uknity-181717?style=for-the-badge&logo=github)  
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=uknity&show_icons=true) 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uknity&theme=blue-green)    
-  
+
 _____________________________________________________  
 
 ## Table of Contents
@@ -17,39 +17,37 @@ _____________________________________________________
   - [License](#license)
 ______________________________________________________
 
-![image](https://user-images.githubusercontent.com/77338531/117899288-c67e4500-b294-11eb-9f3f-95126068d536.png)
-
-GitHub URL: https://github.com/uknity/Workout_Tracker  
-Deployed Site URL:  https://intense-coast-77056.herokuapp.com/  
-
 ## Description
 
-Workout Tracker allows users to create workouts, add exercises by cardio and resistance, and view workout stats for the past 7 days.  On the stats page, users will see charts tracking total duration of cardio per day and total weight lifted per day. 
+Use this dynamic README generator to create a descriptive, professional README document for your project.  The README will include the project title, a table of contents, and sections providing a description of the project, installation instructions, user guidelines, collaborator credits, project tests, contact information for questions, and licenses.  In addition, the project features a license badge near the top of the README.
 
 ## Installation
 
-No special installation directions are needed to install.  Please visit the deployed site and follow the prompts provided on the screen.
+Ensure that you have Node.js downloaded onto your computer.  If not, please visit https://nodejs.org/en and follow the download instructions.  Open the project in your code editor and open the terminal.
 
 ## Usage
 
-On the homepage, you will see your previous workout.  You may choose to add exercises to this workout or to create a new workout.  Click the Dashboard link on the navigation bar to see your stats for the week.
+Please open the files in VS Code or your preferred code editor. In the terminal, type, "node index.js".  Answer the prompted questions about your project. The project will generate a README.md file that you may copy into your project.
 
 ## Credits
 
-This project was completed with the assistance of the GA Tech Coding Bootcamp faculty.
+This project was completed with the assistance of the Georgia Tech Coding Bootcamp.
 
 ## Test
 
-To test, simply visit the deployed site and enter workout data.
+To test the project, please follow the usage guidelines to generate a sample README.
 
 ## Questions
 
 For additional information, please visit my GitHub site or send me an email at the address below.  
-  
+
 GitHub Username: uknity  
 GitHub Link: https://github.com/uknity  
 Email Address: uknity@gmail.com  
 
 ## License
 
-https://creativecommons.org/publicdomain/zero/1.0/
+https://opensource.org/licenses/MIT
+
+Github URL: https://github.com/uknity/Readme_Generator   
+Video Link:  https://drive.google.com/file/d/1D5FlulWhZi0emSDxBLagRrcZb9GTvheN/view?usp=sharing
